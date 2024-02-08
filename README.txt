@@ -74,4 +74,23 @@ the code was finally executed. Finally, I activated the program and chose the Mo
 Date: - 2024-02-03
 2001
 
-Facing errors while doing NuGet Packet Manager because
+I'm getting issues while using NuGet Packet management since I forgot to write a command in the package management console. Then I display the same mistake shown in the instruction. 
+Finally, repair the problem with the last update command.
+
+
+
+DATE: - 2024-02-05
+2107
+
+TASK 8: -
+
+I began working with a database. I created a new class named SeedData in the Models folder and uploaded a video to the website's database.
+I updated the program to include new code from the lesson. I made few mistakes at first, but after a few tries, I eventually received the error-free code file.
+
+DATE: - 2024-02-07
+2344
+
+TASK 9: - 
+
+I created a GitHub repository to the project. For the last work, I added controller methods and views to the website. To do this, I added some lines I created 
+previously in the Models folder to the Movie.cs file that instruct it what to display for the field name, such as an error in data type for ratings and names.
